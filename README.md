@@ -26,7 +26,7 @@ The purpose of this project is to allow a user to track their budget regularly t
 - Images of final product walkthrough<br>
 <img src="./assets/images/1.png" alt="Final Product" width="900">
 <img src="./assets/images/2.png" alt="Final Product" width="900">
-<img src="./assets/images/3.png" alt="Final Product" width="900">
+<img src="./assets/images/4.png" alt="Final Product" width="900">
 
 ## User Story
 ```
